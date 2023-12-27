@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Muhammed Rezk</h1>
-<h3 align="center">A passionate Mobile app developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Elamine</h1>
+<h3 align="center">A Software developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/458522/screenshots/2755496/navitome_illustration_no.3.jpg">
 - 🔭 I’m currently working on Freelance projects
 
