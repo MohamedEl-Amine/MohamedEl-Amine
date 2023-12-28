@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check my profilo [https://medpro-dz.000webhostapp.com/](https://medpro-dz.000webhostapp.com/)
 
-- 📝 I regularly write articles on [https://www.instagram.com/elmedpro/](https://www.instagram.com/innovistadev/)
+- 📝 I regularly write articles on [https://www.instagram.com/innovistadev/](https://www.instagram.com/innovistadev/)
 
 - 💬 Ask me about **Python, PyQt5, JavaFx, Dart, Flutter, Matlab, Tkinter, kvLang**
 
