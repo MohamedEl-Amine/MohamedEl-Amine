@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 Check my profilo [http://innovista-dev.000webhostapp.com/](http://innovista-dev.000webhostapp.com/)
+- 👨‍💻 Check my profilo [innovista-site]([http://innovista-dev.000webhostapp.com/](https://mohamedel-amine.github.io/innovista-site/))
 
-- 📝 I regularly write articles on [https://www.instagram.com/innovistadev/](https://www.instagram.com/innovistadev/)
+- 📝 I regularly write articles on [instagram-innovistadev](https://www.instagram.com/innovistadev/)
 
 - 💬 Ask me about **Python, PyQt5, JavaFx, Dart, Flutter, Matlab, Tkinter, kvLang**
 
