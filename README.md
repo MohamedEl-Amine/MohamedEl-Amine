@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 Check my profilo [innovista-site]([http://innovista-dev.000webhostapp.com/](https://mohamedel-amine.github.io/innovista-site/))
+- 👨‍💻 Check my profilo [innovista-site](https://mohamedel-amine.github.io/innovista-site/)
 
 - 📝 I regularly write articles on [instagram-innovistadev](https://www.instagram.com/innovistadev/)
 
